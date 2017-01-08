@@ -29,7 +29,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
 import com.mariussoft.endlessjabber.sdk.EndlessJabberInterface;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.AnalyticsManager;
 import com.moez.QKSMS.common.DialogHelper;
 import com.moez.QKSMS.common.DonationManager;

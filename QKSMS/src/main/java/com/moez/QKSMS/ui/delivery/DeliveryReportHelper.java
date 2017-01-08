@@ -27,7 +27,7 @@ import android.telephony.PhoneNumberUtils;
 import android.text.TextUtils;
 import android.util.Log;
 import com.google.android.mms.pdu_alt.PduHeaders;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.utils.MessageUtils;
 import com.moez.QKSMS.transaction.SmsHelper;
 

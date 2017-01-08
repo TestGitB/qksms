@@ -44,7 +44,7 @@ import com.moez.QKSMS.common.LiveViewManager;
 import com.moez.QKSMS.enums.QKPreference;
 import com.moez.QKSMS.mmssms.Transaction;
 import com.moez.QKSMS.mmssms.Utils;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.AnalyticsManager;
 import com.moez.QKSMS.data.Conversation;
 import com.moez.QKSMS.data.ConversationLegacy;

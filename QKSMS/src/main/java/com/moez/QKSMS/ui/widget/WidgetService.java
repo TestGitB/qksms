@@ -33,13 +33,13 @@ import android.view.View;
 import android.widget.RemoteViews;
 import android.widget.RemoteViewsService;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.ConversationPrefsHelper;
 import com.moez.QKSMS.common.utils.ImageUtils;
 import com.moez.QKSMS.common.utils.MessageUtils;
 import com.moez.QKSMS.data.ContactHelper;
 import com.moez.QKSMS.data.Conversation;
-import com.moez.QKSMS.ui.MainActivity;
+import com.vapp.imess.ui.MainActivity;
 import com.moez.QKSMS.ui.ThemeManager;
 import com.moez.QKSMS.ui.messagelist.MessageListActivity;
 

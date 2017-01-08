@@ -8,7 +8,7 @@ import android.os.AsyncTask;
 import android.provider.Telephony;
 import android.util.Log;
 import android.view.MenuItem;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.utils.PhoneNumberUtils;
 import com.moez.QKSMS.data.Conversation;
 import com.moez.QKSMS.data.Message;

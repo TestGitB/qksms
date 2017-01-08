@@ -2,7 +2,7 @@ package com.moez.QKSMS.ui.settings;
 
 import android.app.FragmentManager;
 import android.os.Bundle;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.ui.base.QKSwipeBackActivity;
 
 public class SettingsActivity extends QKSwipeBackActivity {

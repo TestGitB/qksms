@@ -13,7 +13,7 @@ import android.preference.PreferenceManager;
 import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.RemoteInput;
 import android.view.Gravity;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.data.ContactHelper;
 import com.moez.QKSMS.mmssms.Message;
 import com.moez.QKSMS.mmssms.Transaction;

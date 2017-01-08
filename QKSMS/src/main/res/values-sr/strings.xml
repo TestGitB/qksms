@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Датум пријема</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Свиђа Вам се QKSMS?</string>
+  <string name="rate_title">Свиђа Вам се QKSMS.</string>
   <!--Title for rate button-->
   <string name="rate_action">Оцените</string>
   <string name="pref_category_appearance">Изглед</string>
@@ -120,7 +120,7 @@
   <string name="pref_theme">Боја теме</string>
   <string name="pref_theme_summary_alt">Додирните да бисте променили тему</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the QKSMS.icon color</string>
   <string name="pref_status_tint">Обојена статусна трака</string>
   <string name="pref_navigation_tint">Обојена навигациона трака</string>
   <string name="pref_background">Боја позадине</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Исправља проблеме које узрокују immersive mode, Tinted Status Bar (Xposed), или произвољни DPI</string>
   <string name="pref_navigation_compat">Исправка за навигациону траку</string>
   <string name="pref_navigation_compat_summary">Исправља проблеме које узрокују immersive mode, Tinted Status Bar (Xposed), или произвољни DPI</string>
-  <string name="pref_about_version_title">Верзија QKSMS-а</string>
+  <string name="pref_about_version_title">Верзија QKSMS.а</string>
   <string name="pref_about_authors_title">Аутори</string>
   <string name="pref_about_authors_summary">Моез Бати</string>
   <string name="pref_changelog_summary">Додирните да видите измене</string>
   <string name="pref_about_thanks_title">Хвала Вам</string>
   <string name="pref_about_thanks_summary">Додирните да видите ко доприноси отвореном коду</string>
   <string name="pref_donate_title">Донирајте</string>
-  <string name="pref_donate_summary">QKSMS је бесплатан. Помозите нам донацијама!</string>
+  <string name="pref_donate_summary">iMess је бесплатан. Помозите нам донацијама!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Придужите се QKSMS заједници за Бета тестирање на Google+</string>
+  <string name="pref_about_gplus_summary">Придужите се QKSMS.заједници за Бета тестирање на Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">Изворни код QKSMS-а је отворен за све. МОжете допринети коду или пријавити проблеме на нашој GitHub страници</string>
+  <string name="pref_about_github_summary">Изворни код QKSMS.а је отворен за све. МОжете допринети коду или пријавити проблеме на нашој GitHub страници</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Придрузжите се пројетку превођења QKSMS-а на Crowdin-у</string>
+  <string name="pref_about_crowdin_summary">Придрузжите се пројетку превођења QKSMS.а на Crowdin-у</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Тема</string>
   <!--Preference subcategory-->
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Извештај</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Ове измене ће се применити при следећем отварању QKSMS-a</string>
+  <string name="restart_message">Ове измене ће се применити при следећем отварању QKSMS.a</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Обриши разговоре</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">Имена приступних тачака нису подешена</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Изгледа да имена приступних тачака нису подешена. То значи да ММС неће добро радити. Додирните Потврди да би их QKSMS пронашао за вас :)</string>
+  <string name="apns_not_set_description">Изгледа да имена приступних тачака нису подешена. То значи да ММС неће добро радити. Додирните Потврди да би их QKSMS.пронашао за вас :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Подешавање ММС-а?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Изгледа да ММС још увек није подешен у QKSMS-у. Додирните Потврди да би ММС аутоматски био подешен.</string>
+  <string name="set_up_mms_description">Изгледа да ММС још увек није подешен у QKSMS.у. Додирните Потврди да би ММС аутоматски био подешен.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Порука ће бити одбачена јер нема важећих примаоца.</string>
   <string name="invalid_code">Неважећи код</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Одговори</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Одговори преко QKSMS-а</string>
+  <string name="reply_qksms">Одговори преко QKSMS.а</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Прочитај</string>
   <!--Notification action to mark a message as read-->
@@ -531,20 +531,20 @@
   <string name="no_conversations">Нема разговора.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Учитавање разговора.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that QKSMS.isn't the default SMS app -->
   <string name="not_default">Подразумавана СМС аплиакција</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">Да бисте то урадили QKSMS мора бити основна апликација за СМС</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS мора да буде Ваша основна апликација за СМС да бисте поруке означили као прочитане</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS мора да буде Ваша основна апликација за СМС да бисте поруке означили као непрочитане</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS мора да буде Ваша основна апликација за СМС да бисте обрисали поруке</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS мора да буде Ваша основна апликација за СМС да бисте слали поруке</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Неке ствари неће радити док не поставите QKSMS као основну СМС апликацију</string>
+  <!-- Tells the user they need to set QKSMS.as the default app in order to use this feature -->
+  <string name="default_info">Да бисте то урадили QKSMS.мора бити основна апликација за СМС</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">iMess мора да буде Ваша основна апликација за СМС да бисте поруке означили као прочитане</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">iMess мора да буде Ваша основна апликација за СМС да бисте поруке означили као непрочитане</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to send messages -->
+  <string name="not_default_delete">iMess мора да буде Ваша основна апликација за СМС да бисте обрисали поруке</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to delete messages -->
+  <string name="not_default_send">iMess мора да буде Ваша основна апликација за СМС да бисте слали поруке</string>
+  <!-- Tells the user they should set QKSMS.as the default messaging app -->
+  <string name="not_default_first">Неке ствари неће радити док не поставите QKSMS.као основну СМС апликацију</string>
   <string name="delayed_messaging_info">Одложено слање Вам омогућава да откажете поруке пре него што се пошаљу. То, и још што-шта можете наћи у подешавањима</string>
   <string name="delayed_duration_bounds_error">Трајање мора бити између 1 и 30 секунди</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -554,7 +554,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Ажурирај боју иконе</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">Када се мења боја иконе, QKSMS мора бити поново покренут</string>
+  <string name="update_icon_message">Када се мења боја иконе, QKSMS.мора бити поново покренут</string>
   <string name="dialog_conversation_details_title">Детаљи о разговору</string>
   <string name="dialog_conversation_details_last_message_date">Датум последње поруке</string>
   <string name="dialog_conversation_details_message_count">Број порука</string>
@@ -611,7 +611,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Хвала Вам за донацију! Волим Вас.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Хвала Вам за донацију! Помажете QKSMS да постане најбоља апликација за поруке икада.</string>
+  <string name="thanks_3">Хвала Вам за донацију! Помажете QKSMS.да постане најбоља апликација за поруке икада.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Хвала Вам за донацију! Сјајни сте.</string>
   <!--Menu option to mute conversation-->
@@ -639,10 +639,10 @@
   <string name="attachment_camera_error">Камера није могла да се покрене</string>
   <string name="pref_max_mms_attachment_size">Највећа дозвољена величина додатка у ММС-у</string>
   <string name="error_no_recipients">Изаберите неке контакте којима ћете послати ову поруку!</string>
-  <string name="error_file_not_found">QKSMS не може да приступи датотеци коју желите да поделите!</string>
+  <string name="error_file_not_found">iMess не може да приступи датотеци коју желите да поделите!</string>
   <string name="sending_blocked_welcome_screen_message">Сачекајте! Слаћете праве поруке за само минут!</string>
   <string name="notification_colored_icon_ready">Притисните да бисте додали пречицу на почетни екран.</string>
-  <string name="notification_title_colored_icon_ready">QKSMS обојена икона је спремна</string>
+  <string name="notification_title_colored_icon_ready">iMess обојена икона је спремна</string>
   <string name="icon_ready">Ваша нова икона је готова!</string>
   <string name="icon_ready_message">Сада је, свеже обојену, можете поново додати на почетни екран.</string>
   <string name="dont_ask_again">Не питај опет</string>
@@ -669,7 +669,7 @@
   <string name="pref_mms_contact_support">Контактирати подршку</string>
   <string name="pref_category_sending_mms">Слање ММС-а</string>
   <string name="pref_category_mms_configuration">Подешавање ММС-а</string>
-  <string name="pref_mms_contact_support_summary">Контактирајте QKSMS тим за помоћ око подешавања ММС-а</string>
+  <string name="pref_mms_contact_support_summary">Контактирајте QKSMS.тим за помоћ око подешавања ММС-а</string>
   <string name="pref_markdown_enabled">Обликовање текста</string>
   <string name="pref_markdown_enabled_summary">Нека помоћу знакова текст буде подебљан, подвучен, или итализиран у порукама</string>
   <string name="want_read_indicators">Желите ли индикаторе да ли су поруке прочитане или не?</string>

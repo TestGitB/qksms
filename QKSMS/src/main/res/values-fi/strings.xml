@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Vastaanotettu</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Like QKSMS?</string>
+  <string name="rate_title">Like QKSMS.?</string>
   <!--Title for rate button-->
   <string name="rate_action">Rate</string>
   <string name="pref_category_appearance">Ulkonäkö</string>
@@ -120,7 +120,7 @@
   <string name="pref_theme">Theme color</string>
   <string name="pref_theme_summary_alt">Napauta teeman vaihtamiseksi</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the QKSMS.icon color</string>
   <string name="pref_status_tint">Sävytetty tilapalkki</string>
   <string name="pref_navigation_tint">Sävytetty navigointipalkki</string>
   <string name="pref_background">Taustaväri</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Korjaa laajennetun työpöydän, Tinted Status Bar (Xposed), tai mukautettujen DPI-asetusten aiheuttamat ongelmat</string>
   <string name="pref_navigation_compat">Navigaatiopalkin korjaus</string>
   <string name="pref_navigation_compat_summary">Korjaa laajennetun työpöydän, Tinted Status Bar (Xposed), tai mukautettujen DPI-asetusten aiheuttamat ongelmat</string>
-  <string name="pref_about_version_title">QKSMS versio</string>
+  <string name="pref_about_version_title">iMess versio</string>
   <string name="pref_about_authors_title">Tekijät</string>
   <string name="pref_about_authors_summary">Moez Bhatti</string>
   <string name="pref_changelog_summary">Napauta nähdäksesi muutosloki</string>
   <string name="pref_about_thanks_title">Kiitos</string>
   <string name="pref_about_thanks_summary">Napauta nähdäksesi avoimen lähdekoodin kirjoittajat</string>
   <string name="pref_donate_title">Donate</string>
-  <string name="pref_donate_summary">QKSMS is free. Help support us by donating!</string>
+  <string name="pref_donate_summary">iMess is free. Help support us by donating!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Join the QKSMS Beta Testing community on Google+</string>
+  <string name="pref_about_gplus_summary">Join the QKSMS.Beta Testing community on Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS is open source. Contribute and report issues on GitHub</string>
+  <string name="pref_about_github_summary">iMess is open source. Contribute and report issues on GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Join the QKSMS translation project on Crowdin</string>
+  <string name="pref_about_crowdin_summary">Join the QKSMS.translation project on Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Teema</string>
   <!--Preference subcategory-->
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Raportti</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Muutokset tulevat voimaan seuraavan kerran kun QKSMS avataan</string>
+  <string name="restart_message">Muutokset tulevat voimaan seuraavan kerran kun QKSMS.avataan</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Delete conversations</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APN-asetuksia ei määritetty</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Näyttää siltä, että APN-asetuksiasi ei ole määritetty. Tämä tarkoittaa sitä, että MMS ei toimi kunnolla. Paina kyllä ja QKSMS löytää ne sinulle :)</string>
+  <string name="apns_not_set_description">Näyttää siltä, että APN-asetuksiasi ei ole määritetty. Tämä tarkoittaa sitä, että MMS ei toimi kunnolla. Paina kyllä ja QKSMS.löytää ne sinulle :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Aseta multimediaviestit?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">It appears that MMS hasn\'t been configured in QKSMS yet. Press okay automatically configure MMS.</string>
+  <string name="set_up_mms_description">It appears that MMS hasn\'t been configured in QKSMS.yet. Press okay automatically configure MMS.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Viestisi hylätään, koska sillä ei ole kelvollisia vastaanottajia.</string>
   <string name="invalid_code">Virheellinen koodi</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Vastaa</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Vastaa QKSMS:llä</string>
+  <string name="reply_qksms">Vastaa QKSMS.llä</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Luettu</string>
   <!--Notification action to mark a message as read-->
@@ -530,20 +530,20 @@
   <string name="no_conversations">Ei keskusteluja.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Ladataan keskusteluja.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that QKSMS.isn't the default SMS app -->
   <string name="not_default">Oletus SMS</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
+  <!-- Tells the user they need to set QKSMS.as the default app in order to use this feature -->
   <string name="default_info">QKSMS:n on oltava SMS-sovelluksesi tuon tekemiseksi</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as read -->
   <string name="not_default_mark_read">QKSMS:n on oltava SMS-sovelluksesi viestien merkitsemiseksi luetuksi</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as unread -->
   <string name="not_default_mark_unread">QKSMS:n on oltava SMS-sovelluksesi viestien merkitsemiseksi lukemattomaksi</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to send messages -->
   <string name="not_default_delete">QKSMS:n on oltava SMS-sovelluksesi viestien poistamiseksi</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to delete messages -->
   <string name="not_default_send">QKSMS:n on oltava SMS-sovelluksesi viestien lähettämiseksi</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Jotkut asiat eivät toimi ennen kuin QKSMS on oletus SMS-sovelluksesi</string>
+  <!-- Tells the user they should set QKSMS.as the default messaging app -->
+  <string name="not_default_first">Jotkut asiat eivät toimi ennen kuin QKSMS.on oletus SMS-sovelluksesi</string>
   <string name="delayed_messaging_info">Delayed messaging allows you to cancel messages before they send. Change the default behavior and more in Settings</string>
   <string name="delayed_duration_bounds_error">Duration must be between 1 and 30 seconds</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -553,7 +553,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Päivitä kuvakkeen väri</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">iMess must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Conversation details</string>
   <string name="dialog_conversation_details_last_message_date">Last message date</string>
   <string name="dialog_conversation_details_message_count">Message count</string>
@@ -610,7 +610,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Kiitos lahjoituksesta! Minä rakastan sinua.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Kiitos lahjoituksesta! Sinun avullasi QKSMS tulee olemaan paras koskaan tehty viestintäsovellus.</string>
+  <string name="thanks_3">Kiitos lahjoituksesta! Sinun avullasi QKSMS.tulee olemaan paras koskaan tehty viestintäsovellus.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Kiitos lahjoituksesta! Olet mahtava.</string>
   <!--Menu option to mute conversation-->
@@ -638,10 +638,10 @@
   <string name="attachment_camera_error">Kameraa ei voitu avata</string>
   <string name="pref_max_mms_attachment_size">MMS-liitteen enimmäiskoko</string>
   <string name="error_no_recipients">Select some contacts to send this message to!</string>
-  <string name="error_file_not_found">QKSMS can\'t access the file you\'re trying to share!</string>
+  <string name="error_file_not_found">iMess can\'t access the file you\'re trying to share!</string>
   <string name="sending_blocked_welcome_screen_message">Hold up! You\'ll get to send real messages in a minute!</string>
   <string name="notification_colored_icon_ready">Touch to add to your launcher from home screen.</string>
-  <string name="notification_title_colored_icon_ready">QKSMS colored icon is ready</string>
+  <string name="notification_title_colored_icon_ready">iMess colored icon is ready</string>
   <string name="icon_ready">Your new icon is ready!</string>
   <string name="icon_ready_message">You can now add it to your home screen again with the updated color.</string>
   <string name="dont_ask_again">Älä kysy uudelleen</string>
@@ -668,7 +668,7 @@
   <string name="pref_mms_contact_support">Contact Support</string>
   <string name="pref_category_sending_mms">Sending MMS</string>
   <string name="pref_category_mms_configuration">MMS Configuration</string>
-  <string name="pref_mms_contact_support_summary">Contact the QKSMS team for help setting up MMS</string>
+  <string name="pref_mms_contact_support_summary">Contact the QKSMS.team for help setting up MMS</string>
   <string name="pref_markdown_enabled">Text formatting</string>
   <string name="pref_markdown_enabled_summary">Use markdown syntax to get bold, underline, and italics in your messages</string>
   <string name="want_read_indicators">Want read indicators?</string>

@@ -9,7 +9,7 @@ import android.os.Handler;
 import android.os.Looper;
 import android.widget.Toast;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.transaction.SmsHelper;
 import com.moez.QKSMS.ui.view.RunnableToast;
 

@@ -5,7 +5,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 public class WrapLayout extends LinearLayout {
     public static final String TAG = "WrapLayout";

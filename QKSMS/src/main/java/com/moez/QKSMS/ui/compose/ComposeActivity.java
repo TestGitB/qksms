@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.ViewGroup;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.mmssms.Utils;
 import com.moez.QKSMS.ui.base.QKSwipeBackActivity;
 import com.moez.QKSMS.ui.dialog.DefaultSmsHelper;

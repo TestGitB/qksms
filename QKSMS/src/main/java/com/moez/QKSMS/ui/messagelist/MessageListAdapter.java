@@ -29,7 +29,7 @@ import com.google.android.mms.ContentType;
 import com.google.android.mms.pdu_alt.PduHeaders;
 import com.koushikdutta.ion.Ion;
 import com.moez.QKSMS.QKSMSApp;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.LiveViewManager;
 import com.moez.QKSMS.common.emoji.EmojiRegistry;
 import com.moez.QKSMS.common.utils.CursorUtils;

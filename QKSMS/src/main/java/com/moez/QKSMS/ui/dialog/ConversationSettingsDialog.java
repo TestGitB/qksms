@@ -11,7 +11,7 @@ import android.text.TextUtils;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.ConversationPrefsHelper;
 import com.moez.QKSMS.common.utils.Units;
 import com.moez.QKSMS.ui.ThemeManager;

@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ProgressBar;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 public class ColorPickerDialog extends DialogFragment implements ColorPickerSwatch.OnColorSelectedListener {
     protected AlertDialog mAlertDialog;

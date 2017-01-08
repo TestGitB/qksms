@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Data recebida</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Gostou do QKSMS?</string>
+  <string name="rate_title">Gostou do QKSMS.</string>
   <!--Title for rate button-->
   <string name="rate_action">Avalie</string>
   <string name="pref_category_appearance">Aparência</string>
@@ -120,7 +120,7 @@
   <string name="pref_theme">Cor do tema</string>
   <string name="pref_theme_summary_alt">Toque para mudar o tema</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the QKSMS.icon color</string>
   <string name="pref_status_tint">Barra de status matizada</string>
   <string name="pref_navigation_tint">Barra de navegação matizada</string>
   <string name="pref_background">Cor do fundo</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Corrige problemas causados pelo modo imersivo, Tinted Status Bar (Xposed) ou configurações de DPI personalizadas</string>
   <string name="pref_navigation_compat">Correção de barra de navegação</string>
   <string name="pref_navigation_compat_summary">Corrige problemas causados pelo modo imersivo, Tinted Status Bar (Xposed) ou configurações de DPI personalizadas</string>
-  <string name="pref_about_version_title">Versão do QKSMS</string>
+  <string name="pref_about_version_title">Versão do QKSMS.</string>
   <string name="pref_about_authors_title">Autores</string>
   <string name="pref_about_authors_summary">Moez Bhatti</string>
   <string name="pref_changelog_summary">Toca para ver o changelog</string>
   <string name="pref_about_thanks_title">Obrigado</string>
   <string name="pref_about_thanks_summary">Toque para ver os contribuidores de código aberto</string>
   <string name="pref_donate_title">Doar</string>
-  <string name="pref_donate_summary">QKSMS is free. Help support us by donating!</string>
+  <string name="pref_donate_summary">iMess is free. Help support us by donating!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Join the QKSMS Beta Testing community on Google+</string>
+  <string name="pref_about_gplus_summary">Join the QKSMS.Beta Testing community on Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS is open source. Contribute and report issues on GitHub</string>
+  <string name="pref_about_github_summary">iMess is open source. Contribute and report issues on GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Join the QKSMS translation project on Crowdin</string>
+  <string name="pref_about_crowdin_summary">Join the QKSMS.translation project on Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Tema</string>
   <!--Preference subcategory-->
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Relatório</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Estas alterações serão aplicadas da próxima vez que iniciar o QKSMS</string>
+  <string name="restart_message">Estas alterações serão aplicadas da próxima vez que iniciar o QKSMS.</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Deletar conversas</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APNs não definidos</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Parece que os APNs não foram definidos. Isto significa que o MMS não funcionará corretamente. Por favor, pressione ok para que o QKSMS os possa encontrar por você :)</string>
+  <string name="apns_not_set_description">Parece que os APNs não foram definidos. Isto significa que o MMS não funcionará corretamente. Por favor, pressione ok para que o QKSMS.os possa encontrar por você :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Configurar MMS?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">It appears that MMS hasn\'t been configured in QKSMS yet. Press okay automatically configure MMS.</string>
+  <string name="set_up_mms_description">It appears that MMS hasn\'t been configured in QKSMS.yet. Press okay automatically configure MMS.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Sua mensagem será descartada porque não tem nenhum destinatário válido.</string>
   <string name="invalid_code">Código inválido</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Responder</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Reply via QKSMS</string>
+  <string name="reply_qksms">Reply via QKSMS.</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Lida</string>
   <!--Notification action to mark a message as read-->
@@ -532,20 +532,20 @@ Plural form: Conversas serão excluídas.</item>
   <string name="no_conversations">Não há conversas.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Carregando conversas.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that QKSMS.isn't the default SMS app -->
   <string name="not_default">Padrão SMS</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS precisa ser seu aplicativo padrão para fazer isso</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS deve ser o seu aplicativo padrão para marcar mensagens como lidas</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS deve ser o seu aplicativo padrão para marcar as mensagens não lidas</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS deve ser o seu aplicativo padrão para excluir mensagens</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS must be your SMS app to send messages</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Some things won\'t work until QKSMS is the default SMS app</string>
+  <!-- Tells the user they need to set QKSMS.as the default app in order to use this feature -->
+  <string name="default_info">iMess precisa ser seu aplicativo padrão para fazer isso</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">iMess deve ser o seu aplicativo padrão para marcar mensagens como lidas</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">iMess deve ser o seu aplicativo padrão para marcar as mensagens não lidas</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to send messages -->
+  <string name="not_default_delete">iMess deve ser o seu aplicativo padrão para excluir mensagens</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to delete messages -->
+  <string name="not_default_send">iMess must be your SMS app to send messages</string>
+  <!-- Tells the user they should set QKSMS.as the default messaging app -->
+  <string name="not_default_first">Some things won\'t work until QKSMS.is the default SMS app</string>
   <string name="delayed_messaging_info">Delayed messaging allows you to cancel messages before they send. Change the default behavior and more in Settings</string>
   <string name="delayed_duration_bounds_error">Duration must be between 1 and 30 seconds</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -555,7 +555,7 @@ Plural form: Conversas serão excluídas.</item>
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Atualizar cor de ícone</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">iMess must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Conversation details</string>
   <string name="dialog_conversation_details_last_message_date">Last message date</string>
   <string name="dialog_conversation_details_message_count">Message count</string>
@@ -612,7 +612,7 @@ Plural form: Conversas serão excluídas.</item>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Obrigado pela doação! Eu te amo.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Obrigado por doar! Você está ajudando QKSMS a se tornar o melhor aplicativo de mensagem já criado.</string>
+  <string name="thanks_3">Obrigado por doar! Você está ajudando QKSMS.a se tornar o melhor aplicativo de mensagem já criado.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Obrigado pela doação! Você é demais.</string>
   <!--Menu option to mute conversation-->
@@ -640,10 +640,10 @@ Plural form: Conversas serão excluídas.</item>
   <string name="attachment_camera_error">A câmera não pôde ser aberta</string>
   <string name="pref_max_mms_attachment_size">Tamanho máximo de anexo de MMS</string>
   <string name="error_no_recipients">Selecione alguns contatos para enviar esta mensagem!</string>
-  <string name="error_file_not_found">QKSMS can\'t access the file you\'re trying to share!</string>
+  <string name="error_file_not_found">iMess can\'t access the file you\'re trying to share!</string>
   <string name="sending_blocked_welcome_screen_message">Espera aí! Você começa a enviar mensagens reais em um minuto!</string>
   <string name="notification_colored_icon_ready">Toque para adicionar seu lançador da tela inicial.</string>
-  <string name="notification_title_colored_icon_ready">Ícone colorido QKSMS está pronto</string>
+  <string name="notification_title_colored_icon_ready">Ícone colorido QKSMS.está pronto</string>
   <string name="icon_ready">Seu novo ícone está pronto!</string>
   <string name="icon_ready_message">Você agora pode adicioná-lo à sua tela inicial novamente com as cores atualizadas.</string>
   <string name="dont_ask_again">Não pergunte novamente</string>
@@ -670,7 +670,7 @@ Plural form: Conversas serão excluídas.</item>
   <string name="pref_mms_contact_support">Contato de suporte</string>
   <string name="pref_category_sending_mms">Enviando MMS</string>
   <string name="pref_category_mms_configuration">Configuração de MMS</string>
-  <string name="pref_mms_contact_support_summary">Entrar em contato com a equipe QKSMS para ajudar a configurar MMS</string>
+  <string name="pref_mms_contact_support_summary">Entrar em contato com a equipe QKSMS.para ajudar a configurar MMS</string>
   <string name="pref_markdown_enabled">Formatação de texto</string>
   <string name="pref_markdown_enabled_summary">Use a sintaxe do markdown para ficar em negrito, sublinhado e itálico em suas mensagens</string>
   <string name="want_read_indicators">Quero indicadores de leitura?</string>

@@ -38,7 +38,7 @@ import com.android.mms.util.DownloadManager;
 import com.google.android.mms.MmsException;
 import com.google.android.mms.pdu_alt.PduHeaders;
 import com.google.android.mms.pdu_alt.PduPersister;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 public class RetryScheduler implements Observer {
     private static final String TAG = "RetryScheduler";

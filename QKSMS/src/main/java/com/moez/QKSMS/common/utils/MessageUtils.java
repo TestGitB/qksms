@@ -64,7 +64,7 @@ import com.google.android.mms.pdu_alt.SendReq;
 import com.moez.QKSMS.LogTag;
 import com.moez.QKSMS.MmsConfig;
 import com.moez.QKSMS.QKSMSApp;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.TempFileProvider;
 import com.moez.QKSMS.common.google.ThumbnailManager;
 import com.moez.QKSMS.common.google.UriImage;

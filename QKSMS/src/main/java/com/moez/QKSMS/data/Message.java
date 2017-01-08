@@ -5,7 +5,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.net.Uri;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.transaction.SmsHelper;
 import com.moez.QKSMS.ui.dialog.DefaultSmsHelper;
 

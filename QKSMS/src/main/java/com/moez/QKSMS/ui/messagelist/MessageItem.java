@@ -38,7 +38,7 @@ import com.google.android.mms.pdu_alt.PduHeaders;
 import com.google.android.mms.pdu_alt.PduPersister;
 import com.google.android.mms.pdu_alt.RetrieveConf;
 import com.moez.QKSMS.QKSMSApp;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.formatter.FormatterFactory;
 import com.moez.QKSMS.common.google.ItemLoadedCallback;
 import com.moez.QKSMS.common.google.ItemLoadedFuture;

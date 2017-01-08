@@ -26,6 +26,7 @@ import android.util.Log;
 import com.moez.QKSMS.data.Contact;
 import com.moez.QKSMS.data.Conversation;
 import com.moez.QKSMS.data.RecipientIdCache;
+import com.vapp.imess.R;
 
 public class LogTag {
     public static final String TAG = "Mms";

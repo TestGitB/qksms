@@ -15,7 +15,7 @@ QKSMS is an open source replacement to the [stock messaging app](https://github.
 
 # Contributing to QKSMS
 
-We highly encourage contributions to QKSMS; we want to make it as easy and streamlined as possible. If you have any suggestions on how we can improve our workflow, please feel free to contact me.
+We highly encourage contributions to QKSMS. we want to make it as easy and streamlined as possible. If you have any suggestions on how we can improve our workflow, please feel free to contact me.
 
 Quite a bit of old code still needs to be cleaned up and refactored, so keep that in mind as you're digging through the source. If you find something that's just really crappy, let me know and I'll put it higher up on my list of stuff to clean up. I'll be focusing on improving code quality of existing code over the next couple weeks.
 
@@ -29,7 +29,7 @@ If you'd like to donate to help support the project, you can donate via [PayPal 
 
 ### Translations
 
-Please do not perform translations directly on the source files. Pull requests for translations will not be accepted. If you would like to do translations for QKSMS, join the translation project on Crowdin: https://crowdin.com/project/qksms. 
+Please do not perform translations directly on the source files. Pull requests for translations will not be accepted. If you would like to do translations for QKSMS. join the translation project on Crowdin: https://crowdin.com/project/qksms.
 
 Unfortunately I don't always have time to check notifications on Crowdin. If you'd like something checked or approved, send me a message on Slack and then I'll take a look
 
@@ -62,7 +62,7 @@ We track issues and feature requests using GitHub issues. You can view existing 
 3. Make enhancement requests (it would be great if QKSMS...)
 
 #### Reporting bugs
-A great bug report contains a description of the problem and steps to reproduce the problem. We need to know what we're looking for and where to look for it. If the QKSMS team can't reproduce a bug, we will work with testers to fix the problem.
+A great bug report contains a description of the problem and steps to reproduce the problem. We need to know what we're looking for and where to look for it. If the QKSMS.team can't reproduce a bug, we will work with testers to fix the problem.
 
 Bugs are given the red `bug` label. Bugs also may be given extra orange labels:
 
@@ -79,7 +79,7 @@ Conversations aren't marked as read when they are opened from a notification.
 
 ### STEPS
 1. Long press on a conversation and press "Mark as unread" to reveal a notification.
-2. Press the home button to put QKSMS in the background.
+2. Press the home button to put QKSMS.in the background.
 3. Pull down on the notification to open the notification drawer.
 4. Tap on the body of the notification (not the buttons).
 5. Tap on the back button to reveal the conversation list.

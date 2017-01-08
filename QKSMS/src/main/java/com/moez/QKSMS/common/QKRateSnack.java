@@ -3,7 +3,7 @@ package com.moez.QKSMS.common;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 import org.ligi.snackengage.SnackContext;
 import org.ligi.snackengage.conditions.AfterNumberOfOpportunities;

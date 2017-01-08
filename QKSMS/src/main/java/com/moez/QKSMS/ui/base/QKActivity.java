@@ -26,7 +26,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 import com.android.volley.RequestQueue;
 import com.moez.QKSMS.QKSMSApp;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.DialogHelper;
 import com.moez.QKSMS.common.DonationManager;
 import com.moez.QKSMS.common.LiveViewManager;

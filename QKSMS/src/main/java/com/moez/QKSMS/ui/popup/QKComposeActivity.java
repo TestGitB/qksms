@@ -7,7 +7,7 @@ import android.telephony.PhoneNumberUtils;
 import android.view.View;
 import android.widget.AdapterView;
 import com.android.ex.chips.recipientchip.DrawableRecipientChip;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.utils.KeyboardUtils;
 import com.moez.QKSMS.interfaces.ActivityLauncher;
 import com.moez.QKSMS.interfaces.RecipientProvider;

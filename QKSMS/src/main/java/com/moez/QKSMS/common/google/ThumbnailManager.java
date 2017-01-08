@@ -27,7 +27,7 @@ import android.net.Uri;
 import android.util.Log;
 
 import com.moez.QKSMS.LogTag;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.TempFileProvider;
 
 import java.io.ByteArrayOutputStream;

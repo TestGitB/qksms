@@ -7,7 +7,7 @@ import com.crashlytics.android.Crashlytics;
 import com.google.android.gms.analytics.GoogleAnalytics;
 import com.google.android.gms.analytics.HitBuilders;
 import com.google.android.gms.analytics.Tracker;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 public class AnalyticsManager implements AnalyticsManagerBase {
     private AnalyticsManager() {

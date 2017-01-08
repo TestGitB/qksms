@@ -6,7 +6,7 @@ import android.net.Uri;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.enums.QKPreference;
 import com.moez.QKSMS.external.iab.IabHelper;
 import com.moez.QKSMS.external.iab.IabResult;

@@ -26,7 +26,7 @@ import android.net.Uri;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 public final class SqliteWrapper {
     private static final String TAG = "SqliteWrapper";

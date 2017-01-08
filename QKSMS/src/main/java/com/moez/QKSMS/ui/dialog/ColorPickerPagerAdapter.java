@@ -3,7 +3,7 @@ package com.moez.QKSMS.ui.dialog;
 import android.support.v4.view.PagerAdapter;
 import android.view.View;
 import android.view.ViewGroup;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.ui.base.QKActivity;
 
 public class ColorPickerPagerAdapter extends PagerAdapter {

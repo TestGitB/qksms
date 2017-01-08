@@ -9,7 +9,7 @@ import android.preference.PreferenceManager;
 import android.util.Log;
 
 /**
- * The QKSMS icon color can be changed. When it's changed, the QKSMS app must be closed. This
+ * The QKSMS.icon color can be changed. When it's changed, the QKSMS.app must be closed. This
  * Receiver received the system broadcast that a package has changed, and re-launches QKSMS.
  */
 public class IconColorReceiver extends BroadcastReceiver {

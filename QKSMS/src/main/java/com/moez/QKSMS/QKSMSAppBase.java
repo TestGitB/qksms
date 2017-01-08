@@ -47,6 +47,7 @@ import com.moez.QKSMS.ui.ThemeManager;
 import com.moez.QKSMS.ui.mms.layout.LayoutManager;
 import com.squareup.leakcanary.LeakCanary;
 import com.squareup.leakcanary.RefWatcher;
+import com.vapp.imess.R;
 
 import java.util.Locale;
 

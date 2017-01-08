@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Empfangen</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Gefällt dir QKSMS?</string>
+  <string name="rate_title">Gefällt dir QKSMS.</string>
   <!--Title for rate button-->
   <string name="rate_action">Bewerten</string>
   <string name="pref_category_appearance">Erscheinungsbild</string>
@@ -120,7 +120,7 @@
   <string name="pref_theme">Farbschema</string>
   <string name="pref_theme_summary_alt">Tippen um das Schema zu wechseln</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the QKSMS.icon color</string>
   <string name="pref_status_tint">Getönte Statusleiste</string>
   <string name="pref_navigation_tint">Getönte Navigationsleiste</string>
   <string name="pref_background">Hintergrundfarbe</string>
@@ -254,13 +254,13 @@
   <string name="pref_about_thanks_title">Vielen Dank</string>
   <string name="pref_about_thanks_summary">Tippe um die Open-Source-Beteiligten zu sehen</string>
   <string name="pref_donate_title">Spenden</string>
-  <string name="pref_donate_summary">QKSMS ist kostenlos. Unterstütze uns durch eine Spende!</string>
+  <string name="pref_donate_summary">iMess ist kostenlos. Unterstütze uns durch eine Spende!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Werde Teil der QKSMS Betatest-Community auf Google+</string>
+  <string name="pref_about_gplus_summary">Werde Teil der QKSMS.Betatest-Community auf Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS is open source. Contribute and report issues on GitHub</string>
+  <string name="pref_about_github_summary">iMess is open source. Contribute and report issues on GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Join the QKSMS translation project on Crowdin</string>
+  <string name="pref_about_crowdin_summary">Join the QKSMS.translation project on Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Thema</string>
   <!--Preference subcategory-->
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Bericht</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Diese Änderungen werden erst beim nächsten Neustart von QKSMS wirksam</string>
+  <string name="restart_message">Diese Änderungen werden erst beim nächsten Neustart von QKSMS.wirksam</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Konversationen löschen</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APNs sind nicht festgelegt</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Deine APNs scheinen nicht festgelegt zu sein. Dies bedeutet, dass MMS nicht ordnungsgemäß funktioniert. Drücke okay, damit QKSMS sie für dich festlegt :)</string>
+  <string name="apns_not_set_description">Deine APNs scheinen nicht festgelegt zu sein. Dies bedeutet, dass MMS nicht ordnungsgemäß funktioniert. Drücke okay, damit QKSMS.sie für dich festlegt :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">MMS einrichten?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Es scheint, dass MMS noch nicht in QKSMS eingerichtet ist. Drücke okay, um MMS automatisch zu konfigurieren.</string>
+  <string name="set_up_mms_description">Es scheint, dass MMS noch nicht in QKSMS.eingerichtet ist. Drücke okay, um MMS automatisch zu konfigurieren.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Deine Nachricht wird verworfen, da keine gültigen Empfänger angegeben sind.</string>
   <string name="invalid_code">Unzulässiger Code</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Antwort</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Antworte via QKSMS</string>
+  <string name="reply_qksms">Antworte via QKSMS.</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Gelesen</string>
   <!--Notification action to mark a message as read-->
@@ -530,20 +530,20 @@
   <string name="no_conversations">Keine Unterhaltungen.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Lade Unterhaltungen.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that QKSMS.isn't the default SMS app -->
   <string name="not_default">Standard-SMS</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS muss deine Standard SMS App sein, um dies tun zu können</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS muss deine Standard-SMS-App sein, um Nachrichten als gelesen markieren zu können</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS muss deine Standard-SMS-App sein, um Nachrichten als ungelesen markieren zu können</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS muss deine Standard-SMS-App sein, um Nachrichten löschen zu können</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS muss deine Standard-SMS-App sein, um Nachrichten verschicken zu können</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Einige Sachen werden nicht funktionieren, wenn QKSMS nicht die Standard-SMS-App ist</string>
+  <!-- Tells the user they need to set QKSMS.as the default app in order to use this feature -->
+  <string name="default_info">iMess muss deine Standard SMS App sein, um dies tun zu können</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">iMess muss deine Standard-SMS-App sein, um Nachrichten als gelesen markieren zu können</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">iMess muss deine Standard-SMS-App sein, um Nachrichten als ungelesen markieren zu können</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to send messages -->
+  <string name="not_default_delete">iMess muss deine Standard-SMS-App sein, um Nachrichten löschen zu können</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to delete messages -->
+  <string name="not_default_send">iMess muss deine Standard-SMS-App sein, um Nachrichten verschicken zu können</string>
+  <!-- Tells the user they should set QKSMS.as the default messaging app -->
+  <string name="not_default_first">Einige Sachen werden nicht funktionieren, wenn QKSMS.nicht die Standard-SMS-App ist</string>
   <string name="delayed_messaging_info">Verzögerte Nachrichten erlauben es dir das Senden von Nachrichten abzubrechen. Finde mehr in den Einstellungen heraus</string>
   <string name="delayed_duration_bounds_error">Die Dauer muss zwischen 1 und 30 Sekunden liegen</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -553,7 +553,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Aktualisiere die Symbolfarbe</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">iMess must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Unterhaltungsdetails</string>
   <string name="dialog_conversation_details_last_message_date">Datum der letzten Nachricht</string>
   <string name="dialog_conversation_details_message_count">Anzahl der Nachrichten</string>
@@ -610,7 +610,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Vielen Dank für die Spende! Ich liebe dich.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Vielen Dank für Ihre Spende! Du hilfst QKSMS die beste SMS App aller Zeiten zu werden.</string>
+  <string name="thanks_3">Vielen Dank für Ihre Spende! Du hilfst QKSMS.die beste SMS App aller Zeiten zu werden.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Vielen Dank für die Spende! Du bist großartig.</string>
   <!--Menu option to mute conversation-->
@@ -638,10 +638,10 @@
   <string name="attachment_camera_error">Die Kamera konnte nicht geöffnet werden</string>
   <string name="pref_max_mms_attachment_size">Maximale MMS-Anhanggröße</string>
   <string name="error_no_recipients">Wähle die Kontakte, an die diese Nachricht gesendet wird!</string>
-  <string name="error_file_not_found">QKSMS kann nicht auf die Datei zugreifen, die du versuchst zu teilen!</string>
+  <string name="error_file_not_found">iMess kann nicht auf die Datei zugreifen, die du versuchst zu teilen!</string>
   <string name="sending_blocked_welcome_screen_message">Warte kurz! Du kannst in einem Moment richtige Nachrichten senden!</string>
   <string name="notification_colored_icon_ready">Tippen Sie hier, um es zu ihrem Launcher über den Startbildschirm hinzuzufügen.</string>
-  <string name="notification_title_colored_icon_ready">Das farbige QKSMS-Symbol ist bereit</string>
+  <string name="notification_title_colored_icon_ready">Das farbige QKSMS.Symbol ist bereit</string>
   <string name="icon_ready">Dein neues Icon ist fertig!</string>
   <string name="icon_ready_message">Du kannst es jetzt mit der veränderten Farbe erneut zu deinem Startbildschirm hinzufügen.</string>
   <string name="dont_ask_again">Nicht wieder fragen</string>
@@ -649,7 +649,7 @@
   <string name="stagefright_warning">Videonachrichten könnten eine Sicherheitslücke enthalten, durch die dein Telefon für Angriffe verwundbar wird. Möchtest du fortfahren?</string>
   <!-- MMS DIALOG SETUP STRINGS -->
   <string name="mms_setup_set_up_mms_title">MMS einrichten?</string>
-  <string name="mms_setup_set_up_mms_body">Es scheint, als ob MMS noch nicht in QKSMS eingerichtet ist. Drücke Okay, um MMS automatisch zu konfigurieren.</string>
+  <string name="mms_setup_set_up_mms_body">Es scheint, als ob MMS noch nicht in QKSMS.eingerichtet ist. Drücke Okay, um MMS automatisch zu konfigurieren.</string>
   <string name="mms_setup_setting_up_later_title">MMS später einrichten</string>
   <string name="mms_setup_setting_up_later_body">Gehe zum MMS-Abschnitt in den Einstellungen, um eine automatische Konfiguration zu versuchen, den Support zu kontaktieren oder eine eigene Konfiguration zu erstellen.</string>
   <string name="mms_setup_no_configurations_found_title">Keine Konfigurationen gefunden</string>
@@ -668,7 +668,7 @@
   <string name="pref_mms_contact_support">Support kontaktieren</string>
   <string name="pref_category_sending_mms">Sende MMS</string>
   <string name="pref_category_mms_configuration">MMS-Einstellungen</string>
-  <string name="pref_mms_contact_support_summary">Für Hilfe bei den MMS-Einstellungen kontaktiere das QKSMS-Team</string>
+  <string name="pref_mms_contact_support_summary">Für Hilfe bei den MMS-Einstellungen kontaktiere das QKSMS.Team</string>
   <string name="pref_markdown_enabled">Textformatierung</string>
   <string name="pref_markdown_enabled_summary">Benutze Markdown-Syntax um fett, unterstrichen und kursiv in deinen Nachrichten zu verwenden</string>
   <string name="want_read_indicators">Möchtest du einen Hinweis bei bereits gelesenen Nachrichten?</string>

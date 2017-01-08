@@ -8,7 +8,7 @@ import android.preference.PreferenceManager;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.widget.ImageView;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.LiveViewManager;
 import com.moez.QKSMS.enums.QKPreference;
 import com.moez.QKSMS.ui.ThemeManager;

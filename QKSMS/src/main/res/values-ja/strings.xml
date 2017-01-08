@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">受信日</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">QKSMS はいかがですか?</string>
+  <string name="rate_title">iMess はいかがですか?</string>
   <!--Title for rate button-->
   <string name="rate_action">評価</string>
   <string name="pref_category_appearance">外観</string>
@@ -120,7 +120,7 @@
   <string name="pref_theme">テーマ色</string>
   <string name="pref_theme_summary_alt">タップするとテーマを変更します</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the QKSMS.icon color</string>
   <string name="pref_status_tint">彩色のステータス バー</string>
   <string name="pref_navigation_tint">彩色のナビゲーション バー</string>
   <string name="pref_background">背景色</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">イマーシブ モード、彩色ステータス バー (Xposed) またはカスタム DPI 設定によって引き起こされる問題を修正します</string>
   <string name="pref_navigation_compat">ナビゲーション バーの修正</string>
   <string name="pref_navigation_compat_summary">イマーシブ モード、彩色ステータス バー (Xposed) またはカスタム DPI 設定によって引き起こされる問題を修正します</string>
-  <string name="pref_about_version_title">QKSMS バージョン</string>
+  <string name="pref_about_version_title">iMess バージョン</string>
   <string name="pref_about_authors_title">作者</string>
   <string name="pref_about_authors_summary">Moez Bhatti</string>
   <string name="pref_changelog_summary">タップすると、変更履歴を表示します</string>
   <string name="pref_about_thanks_title">ありがとうございます</string>
   <string name="pref_about_thanks_summary">タップすると、オープン ソース貢献者を表示します</string>
   <string name="pref_donate_title">寄付</string>
-  <string name="pref_donate_summary">QKSMS は無料です。寄付をして私たちをサポートしてください!</string>
+  <string name="pref_donate_summary">iMess は無料です。寄付をして私たちをサポートしてください!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Google+ の QKSMS ベータ テスト コミュニティに参加してください</string>
+  <string name="pref_about_gplus_summary">Google+ の QKSMS.ベータ テスト コミュニティに参加してください</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS はオープンソースです。GitHub で貢献や問題の報告をしてください</string>
+  <string name="pref_about_github_summary">iMess はオープンソースです。GitHub で貢献や問題の報告をしてください</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Crowdin の QKSMS の翻訳プロジェクトに参加してください</string>
+  <string name="pref_about_crowdin_summary">Crowdin の QKSMS.の翻訳プロジェクトに参加してください</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">テーマ</string>
   <!--Preference subcategory-->
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">レポート</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">この変更は次に QKSMS を開いたときに有効になります</string>
+  <string name="restart_message">この変更は次に QKSMS.を開いたときに有効になります</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">会話を削除</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -344,7 +344,7 @@
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">MMS を設定しますか?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">QKSMS で MMS が設定されていないようです。MMS を設定するには OK を押してください。</string>
+  <string name="set_up_mms_description">iMess で MMS が設定されていないようです。MMS を設定するには OK を押してください。</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">受信者が無効なため、メッセージは破棄されます。</string>
   <string name="invalid_code">無効なコード</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">返信</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">QKSMS 経由で返信</string>
+  <string name="reply_qksms">iMess 経由で返信</string>
   <!--Notification action to mark a message as read-->
   <string name="read">読む</string>
   <!--Notification action to mark a message as read-->
@@ -529,19 +529,19 @@
   <string name="no_conversations">会話はありません</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">会話を読み込んでいます。</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that QKSMS.isn't the default SMS app -->
   <string name="not_default">デフォルト SMS</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS は、それを行うために SMS アプリにする必要があります</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS は、メッセージを既読にマークするために SMS アプリにする必要があります</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS は、メッセージを未読にするために SMS アプリにする必要があります</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS は、メッセージを削除するために SMS アプリにする必要があります</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS は、メッセージを送信するために SMS アプリにする必要があります</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
+  <!-- Tells the user they need to set QKSMS.as the default app in order to use this feature -->
+  <string name="default_info">iMess は、それを行うために SMS アプリにする必要があります</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">iMess は、メッセージを既読にマークするために SMS アプリにする必要があります</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">iMess は、メッセージを未読にするために SMS アプリにする必要があります</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to send messages -->
+  <string name="not_default_delete">iMess は、メッセージを削除するために SMS アプリにする必要があります</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to delete messages -->
+  <string name="not_default_send">iMess は、メッセージを送信するために SMS アプリにする必要があります</string>
+  <!-- Tells the user they should set QKSMS.as the default messaging app -->
   <string name="not_default_first">いくつかのものは、QKSMS がデフォルトの SMS アプリになるまで動作しません</string>
   <string name="delayed_messaging_info">メッセージ送信遅延は、メッセージを送信する前にキャンセルできます。設定でデフォルトの動作および詳細を変更してください。</string>
   <string name="delayed_duration_bounds_error">期間は 1 ～ 30 秒の間にする必要があります</string>
@@ -552,7 +552,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">アイコンの色を更新</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">アイコンの色を変更するときに QKSMS を再起動する必要があります</string>
+  <string name="update_icon_message">アイコンの色を変更するときに QKSMS.を再起動する必要があります</string>
   <string name="dialog_conversation_details_title">会話の詳細</string>
   <string name="dialog_conversation_details_last_message_date">最新メッセージの日付</string>
   <string name="dialog_conversation_details_message_count">メッセージ件数</string>
@@ -609,7 +609,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">寄付をありがとう! 大好きです。</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">寄付をありがとう! あなたは、これまでに作られた最高のテキスト メッセージのアプリになる QKSMS を支援しています。</string>
+  <string name="thanks_3">寄付をありがとう! あなたは、これまでに作られた最高のテキスト メッセージのアプリになる QKSMS.を支援しています。</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">寄付をありがとう! あなたは素晴らしい人です。</string>
   <!--Menu option to mute conversation-->
@@ -637,10 +637,10 @@
   <string name="attachment_camera_error">カメラを開くことができませんでした</string>
   <string name="pref_max_mms_attachment_size">最大 MMS 添付ファイル サイズ</string>
   <string name="error_no_recipients">このメッセージを送信する連絡先を選択してください!</string>
-  <string name="error_file_not_found">QKSMS は、共有しようとしているファイルにアクセスできません!</string>
+  <string name="error_file_not_found">iMess は、共有しようとしているファイルにアクセスできません!</string>
   <string name="sending_blocked_welcome_screen_message">ホールドアップ! 1 分で実際のメッセージを送ることができます!</string>
   <string name="notification_colored_icon_ready">タップすると、ホーム画面からランチャーに追加します。</string>
-  <string name="notification_title_colored_icon_ready">QKSMS カラー アイコンが用意されています</string>
+  <string name="notification_title_colored_icon_ready">iMess カラー アイコンが用意されています</string>
   <string name="icon_ready">あなたの新しいアイコンが用意されています!</string>
   <string name="icon_ready_message">更新された色で再度あなたのホーム画面にそれを追加できます。</string>
   <string name="dont_ask_again">次回から表示しない</string>
@@ -648,7 +648,7 @@
   <string name="stagefright_warning">ビデオ メッセージは、お使いの携帯電話を攻撃を受けやすくする、有害な悪用コードが含まれることがあります。続行しますか?</string>
   <!-- MMS DIALOG SETUP STRINGS -->
   <string name="mms_setup_set_up_mms_title">MMS を設定しますか?</string>
-  <string name="mms_setup_set_up_mms_body">QKSMS で MMS が設定されていないようです。OK を押すと、MMS を自動的に設定します。</string>
+  <string name="mms_setup_set_up_mms_body">iMess で MMS が設定されていないようです。OK を押すと、MMS を自動的に設定します。</string>
   <string name="mms_setup_setting_up_later_title">後で MMS を設定する</string>
   <string name="mms_setup_setting_up_later_body">自動設定、サポートに連絡、または独自の設定を入力する場合は、設定の MMS のセクションをご覧ください。</string>
   <string name="mms_setup_no_configurations_found_title">設定が見つかりません</string>

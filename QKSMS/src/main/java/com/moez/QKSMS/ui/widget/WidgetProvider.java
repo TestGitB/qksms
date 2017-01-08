@@ -30,8 +30,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.RemoteViews;
 
-import com.moez.QKSMS.R;
-import com.moez.QKSMS.ui.MainActivity;
+import com.vapp.imess.R;
+import com.vapp.imess.ui.MainActivity;
 import com.moez.QKSMS.ui.ThemeManager;
 import com.moez.QKSMS.ui.popup.QKComposeActivity;
 

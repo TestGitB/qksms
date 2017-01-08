@@ -120,7 +120,7 @@
   <string name="pref_theme">Tema rengi</string>
   <string name="pref_theme_summary_alt">Temayı değiştirmek için dokunun</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the QKSMS.icon color</string>
   <string name="pref_status_tint">Renkli bildirim çubuğu</string>
   <string name="pref_navigation_tint">Renkli sistem çubuğu</string>
   <string name="pref_background">Arkaplan rengi</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Tam ekran modu, \"Tinted Status Bar\" (Xposed modülü) veya özel DPI ayarlarından kaynaklanan sorunları düzeltir</string>
   <string name="pref_navigation_compat">Gezinme çubuğu düzeltmesi</string>
   <string name="pref_navigation_compat_summary">Tam ekran modu, \"Tinted Status Bar\" (Xposed modülü) veya özel DPI ayarlarından kaynaklanan sorunları düzeltir</string>
-  <string name="pref_about_version_title">QKSMS sürüm</string>
+  <string name="pref_about_version_title">iMess sürüm</string>
   <string name="pref_about_authors_title">Yazarlar</string>
   <string name="pref_about_authors_summary">Moez Bhatti</string>
   <string name="pref_changelog_summary">Changelog görüntülemek için dokunun</string>
   <string name="pref_about_thanks_title">Teşekkürler</string>
   <string name="pref_about_thanks_summary">Açık kaynaklara katkıda bulunanları görüntülemek için dokunun</string>
   <string name="pref_donate_title">Bağış Yapın</string>
-  <string name="pref_donate_summary">QKSMS ücretsizdir. Bize bağış yaparak destek olun!</string>
+  <string name="pref_donate_summary">iMess ücretsizdir. Bize bağış yaparak destek olun!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Google + \'da QKSMS Beta Testi topluluğuna katılmak</string>
+  <string name="pref_about_gplus_summary">Google + \'da QKSMS.Beta Testi topluluğuna katılmak</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS is open source. Contribute and report issues on GitHub</string>
+  <string name="pref_about_github_summary">iMess is open source. Contribute and report issues on GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Join the QKSMS translation project on Crowdin</string>
+  <string name="pref_about_crowdin_summary">Join the QKSMS.translation project on Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Tema</string>
   <!--Preference subcategory-->
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Rapor et</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Değişiklikler QKSMS\'in bir sonraki açılışında devreye girecek</string>
+  <string name="restart_message">"Değişiklikler QKSMS'in bir sonraki açılışında devreye girecek"</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Yazışmaları sil</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APNs ayarlanmamış</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Görünüşe göre APN ayarı yapılmadı. Bu durumda MMS düzgün çalışmaz. QKSMS\'in sizin için ayarlaması için lütfen tamama basınız :)</string>
+  <string name="apns_not_set_description">"Görünüşe göre APN ayarı yapılmadı. Bu durumda MMS düzgün çalışmaz. QKSMS'in sizin için ayarlaması için lütfen tamama basınız :)"</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">MMS ayarları yapılsın mi?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Görünüşe göre MMS henüz QKSMS için konfigüre edilmişmemiş. Otomatik olarak MMS\' iyapılandırmak için tamam\'a basın.</string>
+  <string name="set_up_mms_description">Görünüşe göre MMS henüz QKSMS.için konfigüre edilmişmemiş. Otomatik olarak MMS\' iyapılandırmak için tamam\'a basın.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Mesajınız kaydedilmeyecek çünkü geçerli alıcısı yok.</string>
   <string name="invalid_code">Geçersiz kod</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Cevapla</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">QKSMS ile yanıtla</string>
+  <string name="reply_qksms">iMess ile yanıtla</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Oku</string>
   <!--Notification action to mark a message as read-->
@@ -530,20 +530,20 @@
   <string name="no_conversations">Sohbet yok.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Sohbetler yükleniyor.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that QKSMS.isn't the default SMS app -->
   <string name="not_default">Varsayılan SMS</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">Bunu yapmak için QKSMS\'in varsayılan sms uygulaman olması gerekiyor</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">Mesajları okundu olarak işaretlemek için QKSMS\'in varsayılan sms uygulaman olması gerekiyor</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">Mesajları okunmadı olarak işaretlemek için QKSMS\'in varsayılan sms uygulaman olması gerekiyor</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">Mesajları silmek için QKSMS\'in varsayılan sms uygulaman olması gerekiyor</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">Mesajları göndermek için QKSMS\'in varsayılan sms uygulaman olması gerekiyor</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Bazı özellikler QKSMS varsayılan sms uygulaması olmadığı için kullanılamaz</string>
+  <!-- Tells the user they need to set QKSMS.as the default app in order to use this feature -->
+  <string name="default_info">"Bunu yapmak için QKSMS'in varsayılan sms uygulaman olması gerekiyor"</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">"Mesajları okundu olarak işaretlemek için QKSMS'in varsayılan sms uygulaman olması gerekiyor"</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">"Mesajları okunmadı olarak işaretlemek için QKSMS'in varsayılan sms uygulaman olması gerekiyor"</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to send messages -->
+  <string name="not_default_delete">"Mesajları silmek için QKSMS'in varsayılan sms uygulaman olması gerekiyor"</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to delete messages -->
+  <string name="not_default_send">"Mesajları göndermek için QKSMS'in varsayılan sms uygulaman olması gerekiyor"</string>
+  <!-- Tells the user they should set QKSMS.as the default messaging app -->
+  <string name="not_default_first">Bazı özellikler QKSMS.varsayılan sms uygulaması olmadığı için kullanılamaz</string>
   <string name="delayed_messaging_info">Gecikmeli mesaj mesajları gönderilmeden iptal edebilmenizi sağlar. Varsayılan davranışı ve daha fazlasını ayarlardan değiştire bilirsin</string>
   <string name="delayed_duration_bounds_error">Süre 1 ile 30 saniye arasında olmalıdır</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -553,7 +553,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Simge rengini güncelleştir</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">iMess must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Konuşma ayrıntıları</string>
   <string name="dialog_conversation_details_last_message_date">Son mesaj tarihi</string>
   <string name="dialog_conversation_details_message_count">Mesaj sayısı</string>
@@ -610,7 +610,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Yardımın için teşekkürler! Sizi seviyoruz.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Yardımın için teşekkürler! QKSMS\'in şimdiye kadarki en iyi mesajlaşma uygulaması olmasına yardımcı oluyorsun.</string>
+  <string name="thanks_3">"Yardımın için teşekkürler! QKSMS'in şimdiye kadarki en iyi mesajlaşma uygulaması olmasına yardımcı oluyorsun."</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Yardımın için teşekkürler! Mükemmelsiniz.</string>
   <!--Menu option to mute conversation-->
@@ -638,10 +638,10 @@
   <string name="attachment_camera_error">Kamera açılamadı</string>
   <string name="pref_max_mms_attachment_size">Maksimum MMS ek boyutu</string>
   <string name="error_no_recipients">Mesajı göndermek için kişi seçin!</string>
-  <string name="error_file_not_found">QKSMS paylaşmaya çalıştığınız dosyaya erişemiyor!</string>
+  <string name="error_file_not_found">iMess paylaşmaya çalıştığınız dosyaya erişemiyor!</string>
   <string name="sending_blocked_welcome_screen_message">Bekle! Bir dakika içinde gerçek anlamda mesajlar göndere bileceksin!</string>
   <string name="notification_colored_icon_ready">Ana ekrandan, başlatıcı eklemek için dokunun.</string>
-  <string name="notification_title_colored_icon_ready">QKSMS renkli simge hazır</string>
+  <string name="notification_title_colored_icon_ready">iMess renkli simge hazır</string>
   <string name="icon_ready">Yeni simgen hazır!</string>
   <string name="icon_ready_message">Yenilenmiş rengi ile tekrar ana ekrana ekleye bilirsin.</string>
   <string name="dont_ask_again">Bir daha sorma</string>
@@ -649,7 +649,7 @@
   <string name="stagefright_warning">Video mesajları telefonunuzu saldırılara karşı savunmasız bırakabilir bir zararlı yazılım içerebilir. Devam etmek istiyor musunuz?</string>
   <!-- MMS DIALOG SETUP STRINGS -->
   <string name="mms_setup_set_up_mms_title">MMS ayarları yapılsın mı?</string>
-  <string name="mms_setup_set_up_mms_body">Görünüşe göre MMS QKSMS içinde kurulu değil. Otomatik olarak MMS\'i yapılandırmak Tamam tuşuna basın.</string>
+  <string name="mms_setup_set_up_mms_body">Görünüşe göre MMS QKSMS.içinde kurulu değil. Otomatik olarak MMS\'i yapılandırmak Tamam tuşuna basın.</string>
   <string name="mms_setup_setting_up_later_title">Daha sonra MMS\'i ayarla</string>
   <string name="mms_setup_setting_up_later_body">Otomatik yapılandırma deneyin, destek birimine başvurun veya kendi yapılandırma ayarlarını girmek için ayarları MMS bölümünü ziyaret edin.</string>
   <string name="mms_setup_no_configurations_found_title">Yapılandırma bulunamadı</string>
@@ -668,7 +668,7 @@
   <string name="pref_mms_contact_support">Destek hizmetlerine başvur</string>
   <string name="pref_category_sending_mms">MMS gönderme</string>
   <string name="pref_category_mms_configuration">MMS yapılandırma</string>
-  <string name="pref_mms_contact_support_summary">MMS yapılandırılmasına yardım için QKSMS ekibine başvurun</string>
+  <string name="pref_mms_contact_support_summary">MMS yapılandırılmasına yardım için QKSMS.ekibine başvurun</string>
   <string name="pref_markdown_enabled">Metin biçimlendirme</string>
   <string name="pref_markdown_enabled_summary">İletilerinizde kalın, altı çizili ve italik için etiketleme sözdizimini kullanın</string>
   <string name="want_read_indicators">Göstergeleri okumak ister misin?</string>

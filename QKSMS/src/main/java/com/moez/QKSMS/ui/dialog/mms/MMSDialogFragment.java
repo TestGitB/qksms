@@ -20,7 +20,7 @@ import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.ScrollView;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.utils.Units;
 import com.moez.QKSMS.ui.ThemeManager;
 import com.moez.QKSMS.ui.view.QKTextView;

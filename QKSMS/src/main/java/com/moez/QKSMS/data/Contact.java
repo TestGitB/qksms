@@ -23,7 +23,7 @@ import android.util.Log;
 
 import com.moez.QKSMS.LogTag;
 import com.moez.QKSMS.QKSMSApp;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.utils.PhoneNumberUtils;
 import com.moez.QKSMS.transaction.SmsHelper;
 

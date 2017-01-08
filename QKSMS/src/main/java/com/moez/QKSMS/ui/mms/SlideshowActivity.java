@@ -35,7 +35,7 @@ import com.android.mms.dom.smil.SmilDocumentImpl;
 import com.android.mms.dom.smil.SmilPlayer;
 import com.android.mms.dom.smil.parser.SmilXmlSerializer;
 import com.google.android.mms.MmsException;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.model.LayoutModel;
 import com.moez.QKSMS.model.RegionModel;
 import com.moez.QKSMS.model.SlideshowModel;

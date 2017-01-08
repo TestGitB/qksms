@@ -37,7 +37,7 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.VideoView;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.interfaces.AdaptableSlideViewInterface;
 import com.moez.QKSMS.ui.mms.layout.LayoutManager;
 

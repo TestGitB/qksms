@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Получено</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Нравиться QKSMS?</string>
+  <string name="rate_title">Нравиться QKSMS.</string>
   <!--Title for rate button-->
   <string name="rate_action">Оценить</string>
   <string name="pref_category_appearance">Внешний вид</string>
@@ -120,7 +120,7 @@
   <string name="pref_theme">Цвет темы</string>
   <string name="pref_theme_summary_alt">Нажмите, чтобы изменить тему</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the QKSMS.icon color</string>
   <string name="pref_status_tint">Прозрачная строка состояния</string>
   <string name="pref_navigation_tint">Прозрачная панель навигации</string>
   <string name="pref_background">Цвет фона</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Устраняет проблемы, вызванные режимом \"Погружение\", модулем Tinted Status Bar (Xposed) или пользовательскими настройками DPI</string>
   <string name="pref_navigation_compat">Исправление проблем со строкой навигации</string>
   <string name="pref_navigation_compat_summary">Устраняет проблемы, вызванные режимом \"Погружение\", модулем Tinted Status Bar (Xposed) или пользовательскими настройками DPI</string>
-  <string name="pref_about_version_title">Версия QKSMS</string>
+  <string name="pref_about_version_title">Версия QKSMS.</string>
   <string name="pref_about_authors_title">Авторы</string>
   <string name="pref_about_authors_summary">Moez Bhatti</string>
   <string name="pref_changelog_summary">Нажмите для просмотра изменений</string>
   <string name="pref_about_thanks_title">Спасибо</string>
   <string name="pref_about_thanks_summary">Нажмите для просмотра разработчиков открытого исходного кода</string>
   <string name="pref_donate_title">Пожертвования</string>
-  <string name="pref_donate_summary">QKSMS является бесплатным. Поддержите нас, материально!</string>
+  <string name="pref_donate_summary">iMess является бесплатным. Поддержите нас, материально!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Присоединяйтесь к бета-тестированию QKSMS в Google+</string>
+  <string name="pref_about_gplus_summary">Присоединяйтесь к бета-тестированию QKSMS.в Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS это открытый проект, сообщать о проблемах и вносить изменения можно на GitHub</string>
+  <string name="pref_about_github_summary">iMess это открытый проект, сообщать о проблемах и вносить изменения можно на GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Присоединяйтесь к проекту перевода QKSMS на другие языки на Crowdin</string>
+  <string name="pref_about_crowdin_summary">Присоединяйтесь к проекту перевода QKSMS.на другие языки на Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Тема</string>
   <!--Preference subcategory-->
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Отчет</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Эти изменения вступят в силу при следующем открытии QKSMS</string>
+  <string name="restart_message">Эти изменения вступят в силу при следующем открытии QKSMS.</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Удалить переписку</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,7 +340,7 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APN не задано</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Похоже, что ваша точка доступа APN для MMS не была настроена. Это означает, что MMS не будет работать должным образом. Нажмите пожалуйста ОК, чтобы QKSMS нашел их для вас :)</string>
+  <string name="apns_not_set_description">Похоже, что ваша точка доступа APN для MMS не была настроена. Это означает, что MMS не будет работать должным образом. Нажмите пожалуйста ОК, чтобы QKSMS.нашел их для вас :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Настроить MMS?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Ответить</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Ответить через QKSMS</string>
+  <string name="reply_qksms">Ответить через QKSMS.</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Читать</string>
   <!--Notification action to mark a message as read-->
@@ -531,20 +531,20 @@
   <string name="no_conversations">нет разговоров.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Загрузка разговоров.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that QKSMS.isn't the default SMS app -->
   <string name="not_default">приложение SMS по умолчанию</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS должен быть приложением по умолчанию для SMS чтобы использовать эту функцию</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS должен быть приложением по умолчанию для SMS чтобы отметить сообщения прочитанными</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS должен быть приложением по умолчанию для SMS чтобы отметить сообщения НЕпрочитанными</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS должен быть приложением по умолчанию для SMS чтобы удалять сообщения</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS должен быть приложением по умолчанию для SMS чтобы отправлять сообщения</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Некоторые вещи не будут работать до тех пор, пока QKSMS не будет назначен приложением по умолчанию для SMS</string>
+  <!-- Tells the user they need to set QKSMS.as the default app in order to use this feature -->
+  <string name="default_info">iMess должен быть приложением по умолчанию для SMS чтобы использовать эту функцию</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">iMess должен быть приложением по умолчанию для SMS чтобы отметить сообщения прочитанными</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">iMess должен быть приложением по умолчанию для SMS чтобы отметить сообщения НЕпрочитанными</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to send messages -->
+  <string name="not_default_delete">iMess должен быть приложением по умолчанию для SMS чтобы удалять сообщения</string>
+  <!-- Tells the user they need to set QKSMS.as the default messaging app in order to delete messages -->
+  <string name="not_default_send">iMess должен быть приложением по умолчанию для SMS чтобы отправлять сообщения</string>
+  <!-- Tells the user they should set QKSMS.as the default messaging app -->
+  <string name="not_default_first">Некоторые вещи не будут работать до тех пор, пока QKSMS.не будет назначен приложением по умолчанию для SMS</string>
   <string name="delayed_messaging_info">Задержка сообщений позволяет вам отменить сообщения перед отправкой. Изменить поведение по умолчанию можно в настройках</string>
   <string name="delayed_duration_bounds_error">Длительность должна быть между 1 и 30 секунд</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -554,7 +554,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">обновить цвет значка</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS должен быть перезапущен для изменения цвета значка</string>
+  <string name="update_icon_message">iMess должен быть перезапущен для изменения цвета значка</string>
   <string name="dialog_conversation_details_title">Подробности переписки</string>
   <string name="dialog_conversation_details_last_message_date">Дата последнего сообщения</string>
   <string name="dialog_conversation_details_message_count">Количество сообщений</string>
@@ -612,7 +612,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Спасибо за пожертвование! Мы любим тебя.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Спасибо за пожертвование! Вы помогаете QKSMS стать лучшим приложением для переписки когда либо сделанным.</string>
+  <string name="thanks_3">Спасибо за пожертвование! Вы помогаете QKSMS.стать лучшим приложением для переписки когда либо сделанным.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Спасибо за пожертвование! Ты классный.</string>
   <!--Menu option to mute conversation-->
@@ -640,10 +640,10 @@
   <string name="attachment_camera_error">нет доступа к камере</string>
   <string name="pref_max_mms_attachment_size">Максимальный размер вложения MMS</string>
   <string name="error_no_recipients">Выберите несколько контактов, чтобы отправить это сообщение!</string>
-  <string name="error_file_not_found">QKSMS не может получить доступ к файлу, которым вы пытаетесь поделиться!</string>
+  <string name="error_file_not_found">iMess не может получить доступ к файлу, которым вы пытаетесь поделиться!</string>
   <string name="sending_blocked_welcome_screen_message">вы быстро и легко сможете общаться!</string>
   <string name="notification_colored_icon_ready">нажмите чтобы добавить значёк на рабочий стол.</string>
-  <string name="notification_title_colored_icon_ready">QKSMS цвет значка Готов</string>
+  <string name="notification_title_colored_icon_ready">iMess цвет значка Готов</string>
   <string name="icon_ready">Ваш новый значок готов!</string>
   <string name="icon_ready_message">Теперь можно добавить его на домашний экран с обновлённым цветом.</string>
   <string name="dont_ask_again">Не спрашивать снова</string>
@@ -670,7 +670,7 @@
   <string name="pref_mms_contact_support">Обратится в службу поддержки</string>
   <string name="pref_category_sending_mms">Отправка MMS</string>
   <string name="pref_category_mms_configuration">Настройка MMS</string>
-  <string name="pref_mms_contact_support_summary">Связаться с командой QKSMS для помощи в настройке MMS</string>
+  <string name="pref_mms_contact_support_summary">Связаться с командой QKSMS.для помощи в настройке MMS</string>
   <string name="pref_markdown_enabled">Форматирование текста</string>
   <string name="pref_markdown_enabled_summary">Используйте полужирный шрифт, подчеркивание, и курсив в ваших сообщениях</string>
   <string name="want_read_indicators">Хотите ли читать индикаторы?</string>

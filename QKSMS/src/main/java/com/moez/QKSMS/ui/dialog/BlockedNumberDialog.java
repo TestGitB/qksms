@@ -5,7 +5,7 @@ import android.preference.PreferenceManager;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.TextView;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.BlockedConversationHelper;
 import com.moez.QKSMS.ui.base.QKActivity;
 import com.moez.QKSMS.ui.view.QKEditText;

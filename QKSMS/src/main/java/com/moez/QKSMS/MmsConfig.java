@@ -25,6 +25,8 @@ import android.preference.PreferenceManager;
 import android.provider.Telephony;
 import android.util.Log;
 
+import com.vapp.imess.R;
+
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 

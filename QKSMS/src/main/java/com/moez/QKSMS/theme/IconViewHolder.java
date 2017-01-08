@@ -5,7 +5,7 @@ import android.view.View;
 import android.widget.ImageView;
 import butterknife.Bind;
 import butterknife.ButterKnife;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 public class IconViewHolder extends RecyclerView.ViewHolder {
 

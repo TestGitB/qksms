@@ -10,7 +10,7 @@ import android.text.SpannableStringBuilder;
 import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.widget.TextView;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.FontManager;
 import com.moez.QKSMS.common.LiveViewManager;
 import com.moez.QKSMS.common.utils.TextUtils;

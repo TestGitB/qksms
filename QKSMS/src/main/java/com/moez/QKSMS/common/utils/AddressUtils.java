@@ -29,7 +29,7 @@ import com.google.android.mms.pdu_alt.PduHeaders;
 import com.google.android.mms.pdu_alt.PduPersister;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 import com.moez.QKSMS.QKSMSApp;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 public class AddressUtils {
     private static final String TAG = "AddressUtils";

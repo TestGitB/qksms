@@ -14,7 +14,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.ListView;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.ConversationPrefsHelper;
 import com.moez.QKSMS.common.utils.KeyboardUtils;
 import com.moez.QKSMS.data.Conversation;
@@ -24,7 +24,7 @@ import com.moez.QKSMS.interfaces.ActivityLauncher;
 import com.moez.QKSMS.service.CopyUnreadMessageTextService;
 import com.moez.QKSMS.service.DeleteUnreadMessageService;
 import com.moez.QKSMS.transaction.SmsHelper;
-import com.moez.QKSMS.ui.MainActivity;
+import com.vapp.imess.ui.MainActivity;
 import com.moez.QKSMS.ui.ThemeManager;
 import com.moez.QKSMS.ui.base.QKPopupActivity;
 import com.moez.QKSMS.ui.messagelist.MessageColumns;

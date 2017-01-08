@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.telephony.TelephonyManager;
 import android.util.Log;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.mmssms.Apn;
 import com.moez.QKSMS.mmssms.ApnUtils;
 import com.moez.QKSMS.mmssms.Settings;
@@ -170,7 +170,7 @@ public class MMSSetupFragment extends QKFragment implements DialogFragmentListen
 
             if (resultCode == POSITIVE_BUTTON_RESULT) {
 
-                // Send an email to the qksms team
+                // Send an email to the QKSMS.team
                 contactSupport(mContext);
 
             } else if (resultCode == NEGATIVE_BUTTON_RESULT) {
@@ -364,7 +364,7 @@ public class MMSSetupFragment extends QKFragment implements DialogFragmentListen
 
             // Build the message body
             StringBuilder body = new StringBuilder();
-            body.append("Press send, and the QKSMS team will find the correct MMS settings for you!\n\n");
+            body.append("Press send, and the QKSMS.team will find the correct MMS settings for you!\n\n");
             body.append("------------- DO NOT MODIFY -------------\n");
             body.append("Data activity: ").append(manager.getDataActivity()).append("\n");
             if (Build.VERSION.SDK_INT >= 19) {

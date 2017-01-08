@@ -9,7 +9,7 @@ import android.os.Build;
 import android.util.AttributeSet;
 import android.widget.LinearLayout;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 
 public class QKLinearLayout extends LinearLayout {
     private final String TAG = "QKLinearLayout";

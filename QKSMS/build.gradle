@@ -114,3 +114,8 @@ dependencies {
         transitive = true;
     }
 }
+
+crashlytics {
+    androidNdkOut 'src/main/obj'
+    androidNdkLibsOut 'src/main/libs'
+}

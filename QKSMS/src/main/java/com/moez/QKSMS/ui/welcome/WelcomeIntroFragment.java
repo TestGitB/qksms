@@ -5,7 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.ui.view.QKTextView;
 
 public class WelcomeIntroFragment extends BaseWelcomeFragment implements View.OnClickListener {

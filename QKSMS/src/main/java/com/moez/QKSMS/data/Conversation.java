@@ -26,7 +26,7 @@ import com.moez.QKSMS.QKSMSAppBase;
 import com.moez.QKSMS.mmssms.Utils;
 import com.moez.QKSMS.LogTag;
 import com.moez.QKSMS.QKSMSApp;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.google.DraftCache;
 import com.moez.QKSMS.receiver.UnreadBadgeService;
 import com.moez.QKSMS.common.utils.AddressUtils;

@@ -32,7 +32,7 @@ import android.widget.LinearLayout;
 import android.widget.SeekBar;
 import butterknife.Bind;
 import butterknife.ButterKnife;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.common.AnalyticsManager;
 import com.moez.QKSMS.common.CIELChEvaluator;
 import com.moez.QKSMS.common.ConversationPrefsHelper;
@@ -370,7 +370,7 @@ public class ThemeManager {
 
             // Broadcast an intent to a receiver that will:
             // 1) enable the last component; and
-            // 2) relaunch QKSMS with the new component name.
+            // 2) relaunch QKSMS.with the new component name.
             Intent intent = new Intent(IconColorReceiver.ACTION_ICON_COLOR_CHANGED);
             intent.putExtra(IconColorReceiver.EXTRA_COMPONENT_NAME, enabledComponent);
             context.sendBroadcast(intent);

@@ -4,7 +4,7 @@ import android.app.FragmentManager;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
-import com.moez.QKSMS.R;
+import com.vapp.imess.R;
 import com.moez.QKSMS.ui.base.QKSwipeBackActivity;
 
 public class SearchActivity extends QKSwipeBackActivity {
